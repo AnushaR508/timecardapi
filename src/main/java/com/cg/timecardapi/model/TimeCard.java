@@ -1,7 +1,5 @@
 package com.cg.timecardapi.model;
 
-
-
 /**Author:  Theja Nadhella
  * Project Desc: Time Card Service
  *Class Desc: Time card Entity describing all attributes related to Timecard**/
